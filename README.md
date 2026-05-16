@@ -69,7 +69,7 @@ Tesla dominates the Make category, with the Model Y and Model 3 as the most regi
 Newer vehicles (0–5 years) form the largest age category, confirming that EV adoption is a recent and accelerating trend
 
 
-🚀 Impact & Conclusion
+## 🚀 Impact & Conclusion
 This dashboard transforms raw EV registration data into a strategic analytical tool.
 By mapping adoption patterns geographically, tracking CAFV eligibility, and profiling vehicles by make, model, and age, it empowers stakeholders to:
 
@@ -92,3 +92,7 @@ Download and install Power BI Desktop (free)
 Clone or download this repository
 Open Dashboard/EV_adoption.pbix in Power BI Desktop
 Interact with slicers to explore the data
+
+
+###👩‍💻 Author
+Vaishnavi S
